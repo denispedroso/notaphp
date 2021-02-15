@@ -1,0 +1,3 @@
+27/02/2019 15:59:00 -> Erro: [Notice] Undefined variable: test, no arquivo D:\projetos\index_v1.1.0\index.php, na linha 33
+27/02/2019 15:59:21 -> Erro: [User Warning] Incorrect input vector, array of values expected, no arquivo D:\projetos\index_v1.1.0\vendor\project\CancelaNFe.php, na linha 67
+27/02/2019 16:00:33 -> Erro: [Notice] Undefined variable: test, no arquivo D:\projetos\index_v1.1.0\index.php, na linha 33
